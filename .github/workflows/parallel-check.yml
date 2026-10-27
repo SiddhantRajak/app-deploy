@@ -1,5 +1,4 @@
 name: parallel-check
-
 on:
   push:
     branches:
@@ -17,3 +16,4 @@ jobs:
     steps:
       - name: Backend validation
         run: echo "Running backend validation..."
+ 
