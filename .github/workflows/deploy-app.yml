@@ -13,4 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print deployment message
-        run: echo "Deploying app…"
+        run: echo "Deploying app..."
